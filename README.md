@@ -4,15 +4,14 @@ Un modello probabilistico di break-even applicato agli abbonamenti di uso quotid
 (palestra, trasporto pubblico, coworking). La domanda sbagliata è *"quanto costa"*.
 Quella giusta è *"quante volte ci andrai davvero"*.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUO-USERNAME/quando-conviene-abbonamento/blob/main/notebook/quando_conviene_abbonamento.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trevisanluca30/quando-conviene-abbonamento/blob/main/notebook/quando_conviene_abbonamento.ipynb)
 
-> ⚠️ Sostituisci `TUO-USERNAME` nel link qui sopra con il tuo username GitHub.
 
 ---
 
 ## 💡 TL;DR
 
-- 🧮 **Break-even "da calcolatrice":** una divisione. Ed è ottimista per costruzione, perché assume che tu sappia già quante volte ci andrai.
+- 🧮 **Break-even "da calcolatrice":** una divisione. Ed è ottimista per costruzione, perché assume che si sappia già quante volte ci andrai.
 - 🎯 **Break-even reale:** chi dichiara *"ci vado 2-3 volte a settimana"* (10/mese) ne fa in media **4,3** secondo la calibrazione sul paper del 2006, **7,0** con i dati di settore 2024. Il gap col calcolo semplice si assottiglia con i dati recenti, ma non sparisce.
 - 🚪 **L'abbandono è il fattore che nessuno mette nel conto.** Retention annua del settore: **66,4%** (HFA 2025, 175 aziende e 17.000+ strutture). Tra i nuovi iscritti, circa **metà molla entro 6 mesi**.
 - 📜 **Il paradosso del vincolo:** il contratto più economico sulla carta (promo "primi 3 mesi a 10 €", vincolo 12 mesi, 383 € l'anno) diventa **il più caro per ingresso** quando includi l'abbandono. Il Flex a 49,90 €/mese — apparentemente la fregatura — costa meno a chi molla presto.
@@ -31,9 +30,8 @@ Quella giusta è *"quante volte ci andrai davvero"*.
 
 Zero installazioni, gira nel browser:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUO-USERNAME/quando-conviene-abbonamento/blob/main/notebook/quando_conviene_abbonamento.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trevisanluca30/quando-conviene-abbonamento/blob/main/notebook/quando_conviene_abbonamento.ipynb)
 
-Poi `Runtime → Esegui tutto`. Numpy, pandas e matplotlib sono già installati su Colab.
 
 **In locale**, se preferisci:
 ```bash
