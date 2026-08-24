@@ -4,7 +4,8 @@ Un modello probabilistico di break-even applicato agli abbonamenti di uso quotid
 (palestra, trasporto pubblico, coworking). La domanda sbagliata è *"quanto costa"*.
 Quella giusta è *"quante volte ci andrai davvero"*.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trevisanluca30/quando-conviene-abbonamento/blob/main/quando_conviene_abbonamento_2.ipynb)
+[![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trevisanluca30/Subscription_Breakeven/blob/main/quando_conviene_abbonamento_2.ipynb)
 
 
 ---
@@ -30,7 +31,8 @@ Quella giusta è *"quante volte ci andrai davvero"*.
 
 Zero installazioni, gira nel browser:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trevisanluca30/quando-conviene-abbonamento/blob/main/quando_conviene_abbonamento_2.ipynb)
+[![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trevisanluca30/Subscription_Breakeven/blob/main/quando_conviene_abbonamento_2.ipynb)
 
 
 **In locale**, se preferisci:
