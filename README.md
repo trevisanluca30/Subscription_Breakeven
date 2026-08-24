@@ -29,15 +29,14 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.
 
 ## 🛠️ Quick start
 
-Zero installazioni, gira nel browser:
 
 [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trevisanluca30/Subscription_Breakeven/blob/main/quando_conviene_abbonamento_2.ipynb)
 
 
-**In locale**, se preferisci:
+**In locale:**
 ```bash
-git clone https://github.com/TUO-USERNAME/quando-conviene-abbonamento.git
+git clone https://github.com/../quando-conviene-abbonamento.git
 cd quando-conviene-abbonamento
 pip install -r requirements.txt
 jupyter notebook notebook/quando_conviene_abbonamento.ipynb
